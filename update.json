@@ -1,0 +1,8 @@
+{
+  "package": "net.netmonitor.app",
+  "versionCode": 4,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/haitham266/NetMonitor-updates/releases/download/v2.1/NetMonitor-2.1.apk",
+  "sha256": "ddb47dfea820ea3a1e02c8d7fc3d33a988f0a682b79d6960694614c2ff717ac8",
+  "notes": "إصدار 2.1: شعار جديد، حقل عنوان واحد (IP أو كلاود)، تحسينات وإصلاح السجلات."
+}
